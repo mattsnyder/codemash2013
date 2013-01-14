@@ -57,4 +57,3 @@ eigenvalues => magnitude of corresponding transformation
 Use Eigen to reduce structure to most significant data
 
 PCA is preprocessing step
-wo
